@@ -133,20 +133,19 @@ to, supporting documentation.
 
 ## AWS Terms and Abbreviations
 
-The following terms and abbreviations will be used through this design and implementation of all Enterprise applications.
+The following terms and abbreviations will be used through this design and implementation of all engineering and IT applications.
 
 | Name                       | Value    |
 | -------------------------- | -------- |
 | Connectivity               | CONN     |
 | Database Layer             | RDS      |
 | Productuion Environment    | PROD     |
-| Dev Test Environment       | DEV/TEST |
+| Staging Environment        | STG      |
+| Development Environment    | DEV      |
 | Pre Production Environment | PPE      |
 | Management and Monitoring  | MGMT     |
 | Private                    | PRI      |
 | Public                     | PUB      |
-
-N.B. In the above table the forward slash character (“/”) is part of the Value and is not being used as a delimiter.
 
 ## Tagging Overview
 
@@ -254,7 +253,7 @@ attack.
 
 | Tag            | Description                                                                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| SquadName      | Squad / Business are responsible for resource                                                                                          |
+| DepartmentName      | Department/ Business are responsible for resource                                                                                          |
 | CostCentre     | Business group to be billed for the AWS resources                                                                                      |
 | PartnerContact | Value contains contact information for external managed services partner Pipe separated John Smith| +44 0000 00000 |jsmith@example.com |
 
