@@ -154,6 +154,7 @@ The following terms and abbreviations will be used through this design and imple
 | Management and Monitoring  | MGMT     |
 | Private                    | PRI      |
 | Public                     | PUB      |
+| Project                    | PRJT     |
 
 ## Tagging Overview
 
@@ -249,8 +250,8 @@ follows:
 
 | Use                             | Operating System | Version | Creation Date | Version | AWS Resource |
 | ------------------------------- | ---------------- | ------- | ------------- | ------- | ------------ |
-| GOLD                            | RHEL             | 7.1     | 12/09/2017    | 01      | AMI          |
-| GOLD.RHEL.7.1.2017.09.12.01-AMI |
+| GOLD                            | RHEL             | 8.5     | 12/04/2022    | 01      | AMI          |
+| GOLD.RHEL.8.5.2022.04.12.01-AMI |
 
 ## Business Tags
 
