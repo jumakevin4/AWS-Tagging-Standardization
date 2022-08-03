@@ -1,6 +1,5 @@
-# AWS-Tagging-Standardization
+# AWS-Tagging-Standardization-Naming & Tagging Conventions
 AWS Tagging standards for all AWS accounts within the organization
-# Naming & Tagging Conventions
 
 # Table of Contents
 [Terms and Abbreviations](#_Toc500424982)
