@@ -8,6 +8,8 @@ AWS Tagging standards for all AWS accounts within the organization
 
 [Executive Summary](#executive-summary)
 
+[AWS Tagging Implementation Strategy](#aws-tagging-implementation-strategy)
+
 [AWS Terms and Abbreviations](#aws-terms-and-abbreviations)
 
 [Tagging Overview](#tagging-overview)
@@ -130,6 +132,12 @@ to, supporting documentation.
 </tr>
 </tbody>
 </table>
+
+## AWS Tagging Implementation Strategy
+1. Perform an intiial overview of existing tagging - Consider creating/leveraging a dashboard to access the current tagging status quo. Dashboards help identify items such as which cloud resources are currently untagged, how costs incur that are not identifiable with business context, or which team or cost center is responsible for a cloud bill.
+2. Discover untagged resources
+3. Simplify tagging setups
+
 
 ## AWS Terms and Abbreviations
 
