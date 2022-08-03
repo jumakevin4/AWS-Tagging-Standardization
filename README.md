@@ -97,15 +97,15 @@ to, supporting documentation.
 <td><ol start="3" type="1">
 <li></li>
 </ol></td>
-<td>AWS now supports 50 tags per resource - <a href="https://aws.amazon.com/blogs/security/now-organize-your-aws-resources-by-using-up-to-50-tags-per-resource/" class="uri">https://aws.amazon.com/blogs/security/now-organize-your-aws-resources-by-using-up-to-50-tags-per-resource/</a></td>
-<td>August 15, 2016</td>
+<td>A Guide to Managing Cloud Tagging Policies v1 - <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWBhQZ" class="uri">https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWBhQZ</a></td>
+<td>August 16, 2020</td>
 </tr>
 <tr class="even">
 <td><ol start="4" type="1">
 <li></li>
 </ol></td>
-<td>User defined tag restrictions - <a href="http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/allocation-tag-restrictions.html" class="uri">http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/allocation-tag-restrictions.html</a></td>
-<td>LATEST</td>
+<td>AWS Tags: 8 Common Problems and Solutions - <a href="https://www.cloudzero.com/blog/aws-tags" class="uri">https://www.cloudzero.com/blog/aws-tags</a></td>
+<td>Februaty 15, 2022</td>
 </tr>
 <tr class="odd">
 <td><ol start="5" type="1">
